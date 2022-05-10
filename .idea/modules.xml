@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringCloudStudy/SpringCloudStudy.iml" filepath="$PROJECT_DIR$/SpringCloudStudy/SpringCloudStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloudStudy 02/SpringCloudStudy (1).iml" filepath="$PROJECT_DIR$/SpringCloudStudy 02/SpringCloudStudy (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloudStudy/book-service/book-service.iml" filepath="$PROJECT_DIR$/SpringCloudStudy/book-service/book-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloudStudy 02/book-service/book-service (1).iml" filepath="$PROJECT_DIR$/SpringCloudStudy 02/book-service/book-service (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloudStudy/borrow-service/borrow-service.iml" filepath="$PROJECT_DIR$/SpringCloudStudy/borrow-service/borrow-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloudStudy 02/borrow-service/borrow-service (1).iml" filepath="$PROJECT_DIR$/SpringCloudStudy 02/borrow-service/borrow-service (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloudStudy/commons/commons.iml" filepath="$PROJECT_DIR$/SpringCloudStudy/commons/commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloudStudy 02/commons/commons (1).iml" filepath="$PROJECT_DIR$/SpringCloudStudy 02/commons/commons (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloudStudy/eureka-service/eureka-service.iml" filepath="$PROJECT_DIR$/SpringCloudStudy/eureka-service/eureka-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloudStudy 02/eureka-service/eureka-service (1).iml" filepath="$PROJECT_DIR$/SpringCloudStudy 02/eureka-service/eureka-service (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloudStudy/user-service/user-service.iml" filepath="$PROJECT_DIR$/SpringCloudStudy/user-service/user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloudStudy 02/user-service/user-service (1).iml" filepath="$PROJECT_DIR$/SpringCloudStudy 02/user-service/user-service (1).iml" />
+    </modules>
+  </component>
+</project>

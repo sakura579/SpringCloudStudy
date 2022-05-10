@@ -8,10 +8,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="eureka-service" />
-        <module name="user-service" />
         <module name="book-service" />
-        <module name="commons" />
         <module name="borrow-service" />
+        <module name="hystrix-dashboard" />
+        <module name="gateway-server" />
+        <module name="user-service" />
+        <module name="commons" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -20,6 +22,8 @@
       <module name="commons" target="8" />
       <module name="eureka-server" target="8" />
       <module name="eureka-service" target="8" />
+      <module name="gateway-server" target="8" />
+      <module name="hystrix-dashboard" target="8" />
       <module name="SpringCloudStudy" target="1.8" />
       <module name="user-service" target="8" />
     </bytecodeTargetLevel>
@@ -32,6 +36,8 @@
       <module name="commons" options="-parameters" />
       <module name="eureka-server" options="-parameters" />
       <module name="eureka-service" options="-parameters" />
+      <module name="gateway-server" options="-parameters" />
+      <module name="hystrix-dashboard" options="-parameters" />
       <module name="user-service" options="-parameters" />
     </option>
   </component>
